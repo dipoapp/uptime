@@ -5,7 +5,7 @@ https://github.com/dipoapp/uptime/blob/master/.upptimerc.yml
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Dipo App Main Website
+  - name: DipoApp Main Website
     url: https://dipo.app
 
 status-website:
