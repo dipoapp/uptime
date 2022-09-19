@@ -5,7 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: Main Website
     url: https://dipo.app
-  - name: Url Shortener
+  - name: URL Shortener
     url : $SHORTENER
   - name: Form App
     url : $FORM_APP
@@ -22,7 +22,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: DipoApp
   introTitle: "**DipoApp** Status Monitor."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: DipoApp Status Monitor tells you the current status of all your DipoApp products and services, so you can be confident that everything is running smoothly.
   navbar:
     - title: Status
       href: /
