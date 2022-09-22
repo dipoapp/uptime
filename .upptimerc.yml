@@ -13,6 +13,8 @@ sites:
     url : $VIDEO_SHARE
   - name: Note Share
     url : $NOTE_SHARE
+  - name: File Share
+    url : $FILES_SHARE
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
