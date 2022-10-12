@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "url-shortener",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.39%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
     "time": 767,
     "timeDay": 758,
     "timeWeek": 720,
@@ -60,9 +60,9 @@
     "url": "$VIDEO_SHARE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "video-share",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 518,
     "timeMonth": 509,
     "timeYear": 509,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-12": 0
+    }
   },
   {
     "name": "Note Share",
