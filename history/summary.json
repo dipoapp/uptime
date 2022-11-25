@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 106,
-    "timeWeek": 146,
+    "timeDay": 127,
+    "timeWeek": 137,
     "timeMonth": 150,
     "timeYear": 152,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 776,
-    "timeDay": 660,
-    "timeWeek": 794,
-    "timeMonth": 790,
-    "timeYear": 776,
+    "time": 774,
+    "timeDay": 666,
+    "timeWeek": 796,
+    "timeMonth": 784,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2022-10-06": 163
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 218,
-    "timeWeek": 326,
-    "timeMonth": 363,
-    "timeYear": 347,
+    "time": 350,
+    "timeDay": 554,
+    "timeWeek": 342,
+    "timeMonth": 373,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   },
   {
@@ -61,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "video-share",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
-    "time": 509,
-    "timeDay": 450,
-    "timeWeek": 488,
-    "timeMonth": 499,
-    "timeYear": 509,
+    "uptimeYear": "99.67%",
+    "time": 511,
+    "timeDay": 648,
+    "timeWeek": 505,
+    "timeMonth": 507,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2022-10-12": 318
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 919,
-    "timeDay": 807,
-    "timeWeek": 913,
-    "timeMonth": 926,
-    "timeYear": 919,
+    "time": 922,
+    "timeDay": 1124,
+    "timeWeek": 931,
+    "timeMonth": 934,
+    "timeYear": 922,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 3012,
-    "timeDay": 383,
-    "timeWeek": 1924,
-    "timeMonth": 3029,
-    "timeYear": 3012,
+    "time": 2981,
+    "timeDay": 989,
+    "timeWeek": 1607,
+    "timeMonth": 2966,
+    "timeYear": 2981,
     "dailyMinutesDown": {
       "2022-11-08": 20
     }
