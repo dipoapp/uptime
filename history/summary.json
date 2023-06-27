@@ -22,7 +22,7 @@
     "url": "$SHORTENER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "url-shortener",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
     "uptimeDay": "73.47%",
     "uptimeWeek": "96.21%",
