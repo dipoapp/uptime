@@ -54,9 +54,9 @@
     "url": "$FORM_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "form-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -65,7 +65,9 @@
     "timeWeek": 503,
     "timeMonth": 709,
     "timeYear": 461,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-10": 0
+    }
   },
   {
     "name": "Video Share",
