@@ -54,19 +54,19 @@
     "url": "$FORM_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "form-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 461,
-    "timeDay": 350,
-    "timeWeek": 503,
-    "timeMonth": 709,
+    "timeDay": 418,
+    "timeWeek": 501,
+    "timeMonth": 702,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2023-07-10": 0
+      "2023-07-10": 16
     }
   },
   {
