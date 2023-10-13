@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 140,
-    "timeWeek": 144,
-    "timeMonth": 158,
+    "timeDay": 166,
+    "timeWeek": 149,
+    "timeMonth": 160,
     "timeYear": 159,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.72%",
     "time": 982,
-    "timeDay": 821,
-    "timeWeek": 774,
+    "timeDay": 795,
+    "timeWeek": 771,
     "timeMonth": 820,
     "timeYear": 996,
     "dailyMinutesDown": {
@@ -67,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 379,
-    "timeWeek": 697,
-    "timeMonth": 605,
-    "timeYear": 498,
+    "time": 487,
+    "timeDay": 717,
+    "timeWeek": 649,
+    "timeMonth": 615,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2023-07-10": 16
     }
@@ -86,11 +86,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptimeYear": "100.00%",
     "time": 537,
-    "timeDay": 447,
-    "timeWeek": 523,
-    "timeMonth": 542,
+    "timeDay": 390,
+    "timeWeek": 525,
+    "timeMonth": 538,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2023-01-25": 16
@@ -107,10 +107,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 984,
-    "timeDay": 750,
-    "timeWeek": 1000,
-    "timeMonth": 1004,
+    "time": 983,
+    "timeDay": 808,
+    "timeWeek": 1005,
+    "timeMonth": 1003,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2023-08-09": 21,
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2558,
-    "timeDay": 1253,
-    "timeWeek": 1058,
-    "timeMonth": 1221,
-    "timeYear": 2526,
+    "time": 2553,
+    "timeDay": 368,
+    "timeWeek": 936,
+    "timeMonth": 1189,
+    "timeYear": 2521,
     "dailyMinutesDown": {
       "2022-11-08": 20
     }
