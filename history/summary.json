@@ -4,18 +4,20 @@
     "url": "https://dipo.app",
     "icon": "https://icons.duckduckgo.com/ip3/dipo.app.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 166,
+    "timeDay": 159,
     "timeWeek": 154,
     "timeMonth": 151,
     "timeYear": 159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "URL Shortener",
