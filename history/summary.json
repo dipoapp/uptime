@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "url-shortener",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.27%",
@@ -83,11 +83,11 @@
     "url": "$VIDEO_SHARE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "video-share",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.61%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.96%",
     "time": 532,
     "timeDay": 568,
@@ -95,6 +95,7 @@
     "timeMonth": 479,
     "timeYear": 536,
     "dailyMinutesDown": {
+      "2024-01-16": 0,
       "2023-12-26": 173,
       "2023-01-25": 16
     }
