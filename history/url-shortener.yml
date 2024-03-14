@@ -1,7 +1,7 @@
 url: $SHORTENER
-status: up
-code: 200
-responseTime: 862
-lastUpdated: 2024-03-13T23:06:05.335Z
+status: down
+code: 502
+responseTime: 6465
+lastUpdated: 2024-03-14T04:53:56.344Z
 startTime: 2022-09-19T16:10:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
