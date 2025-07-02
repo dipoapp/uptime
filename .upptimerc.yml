@@ -7,8 +7,6 @@ sites:
     url: https://dipo.app
   - name: Form App
     url : $FORM_APP
-  - name: Video Share
-    url : $VIDEO_SHARE
   - name: Note Share
     url : $NOTE_SHARE
   - name: File Share
