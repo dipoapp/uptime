@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 232,
-    "timeWeek": 200,
-    "timeMonth": 348,
+    "timeDay": 187,
+    "timeWeek": 192,
+    "timeMonth": 341,
     "timeYear": 214,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 537,
-    "timeDay": 493,
-    "timeWeek": 416,
-    "timeMonth": 407,
-    "timeYear": 509,
+    "time": 536,
+    "timeDay": 366,
+    "timeWeek": 394,
+    "timeMonth": 402,
+    "timeYear": 508,
     "dailyMinutesDown": {
       "2025-03-27": 48,
       "2025-03-19": 27,
@@ -40,29 +40,6 @@
       "2024-08-15": 16,
       "2024-08-08": 31,
       "2024-07-18": 24
-    }
-  },
-  {
-    "name": "Video Share",
-    "url": "$VIDEO_SHARE",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "video-share",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "79.63%",
-    "uptimeMonth": "95.31%",
-    "uptimeYear": "99.60%",
-    "time": 547,
-    "timeDay": 0,
-    "timeWeek": 554,
-    "timeMonth": 521,
-    "timeYear": 559,
-    "dailyMinutesDown": {
-      "2025-07-02": 112,
-      "2025-07-01": 1440,
-      "2025-06-30": 502,
-      "2024-08-20": 26
     }
   },
   {
@@ -77,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 991,
-    "timeDay": 1010,
-    "timeWeek": 956,
-    "timeMonth": 1017,
+    "timeDay": 1031,
+    "timeWeek": 968,
+    "timeMonth": 1018,
     "timeYear": 987,
     "dailyMinutesDown": {
       "2024-07-03": 908
@@ -96,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 524,
-    "timeWeek": 398,
-    "timeMonth": 388,
+    "time": 513,
+    "timeDay": 467,
+    "timeWeek": 400,
+    "timeMonth": 389,
     "timeYear": 528,
     "dailyMinutesDown": {
       "2025-03-11": 21
