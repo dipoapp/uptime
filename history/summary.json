@@ -65,18 +65,19 @@
     "url": "$FILES_SHARE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "file-share",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 505,
+    "time": 504,
     "timeDay": 409,
     "timeWeek": 382,
     "timeMonth": 396,
     "timeYear": 528,
     "dailyMinutesDown": {
+      "2025-07-11": 0,
       "2025-03-11": 21
     }
   }
