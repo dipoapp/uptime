@@ -1,7 +1,7 @@
 url: $NOTE_SHARE
-status: down
-code: 500
-responseTime: 449
-lastUpdated: 2025-07-12T23:40:01.288Z
+status: up
+code: 200
+responseTime: 965
+lastUpdated: 2025-07-13T02:21:43.661Z
 startTime: 2022-09-19T16:10:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
