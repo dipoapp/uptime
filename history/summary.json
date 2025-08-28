@@ -67,9 +67,9 @@
     "slug": "file-share",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "96.60%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 502,
     "timeDay": 382,
@@ -77,7 +77,7 @@
     "timeMonth": 388,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2025-08-27": 49,
+      "2025-08-27": 41,
       "2025-07-11": 38,
       "2025-03-11": 21
     }
