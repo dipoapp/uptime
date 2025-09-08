@@ -1,7 +1,7 @@
 url: $FILES_SHARE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-08T21:52:11.843Z
+status: up
+code: 200
+responseTime: 372
+lastUpdated: 2025-09-08T22:07:57.659Z
 startTime: 2022-09-22T15:03:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
