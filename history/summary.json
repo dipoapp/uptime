@@ -4,18 +4,20 @@
     "url": "https://dipo.app",
     "icon": "https://icons.duckduckgo.com/ip3/dipo.app.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 167,
-    "timeWeek": 216,
-    "timeMonth": 222,
-    "timeYear": 223,
-    "dailyMinutesDown": {}
+    "time": 215,
+    "timeDay": 403,
+    "timeWeek": 269,
+    "timeMonth": 236,
+    "timeYear": 225,
+    "dailyMinutesDown": {
+      "2025-10-03": 0
+    }
   },
   {
     "name": "Form App",
@@ -26,12 +28,12 @@
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.96%",
     "time": 559,
     "timeDay": 698,
     "timeWeek": 878,
-    "timeMonth": 827,
+    "timeMonth": 840,
     "timeYear": 498,
     "dailyMinutesDown": {
       "2025-09-19": 20,
